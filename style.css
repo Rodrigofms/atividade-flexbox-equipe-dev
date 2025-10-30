@@ -3,7 +3,7 @@
 :root {
   --cor-primaria: #111;
   --cor-secundaria: #f6f6f6;
-  --cor-terciaria: #fd2231; /* <- ATIVIDADE ---- trocar A COR */
+  --cor-terciaria: #203697; /* <- ATIVIDADE ---- trocar A COR */
   --cor-hover: #272727;
 }
 
@@ -81,7 +81,7 @@ body {
 
 .card {
   background-color: var(--cor-hover);
-  border: 2px solid #888; /* <- ATIVIDADE ---- trocar por variável */
+  border: 2px solid #000438; /* <- ATIVIDADE ---- trocar por variável */
   border-radius: 10px;
   width: 250px;
   text-align: center;
